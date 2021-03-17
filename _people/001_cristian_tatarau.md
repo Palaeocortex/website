@@ -2,7 +2,7 @@
 name: Cristian Tatarau
 image: ./assets/images/cristian_tatarau.jpg
 position: PostDoc
-email: cristian.tatarau@fu-berlin.de
+email: c.tatarau2@fu-berlin.de
 ---
 
-Cristian has been eating fruit since he was baby.
+PostDoc, working in the project "Learning the Language of the Brain". Interested in connecting neuroscience, clinical research and artificial intelligence.
